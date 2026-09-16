@@ -1,0 +1,6 @@
+{
+  "name": "Universal Video Downloader",
+  "description": "تحميل الفيديوهات والمقاطع الصوتية بجودة عالية من مختلف المواقع والمنصات بكل سهولة وسرعة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
